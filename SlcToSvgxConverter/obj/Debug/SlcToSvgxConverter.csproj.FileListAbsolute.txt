@@ -1,0 +1,10 @@
+C:\Users\Jizhou Jiang\Desktop\EOS\SlcToSvgxConverter\bin\Debug\SlcToSvgxConverter.exe.config
+C:\Users\Jizhou Jiang\Desktop\EOS\SlcToSvgxConverter\bin\Debug\SlcToSvgxConverter.exe
+C:\Users\Jizhou Jiang\Desktop\EOS\SlcToSvgxConverter\bin\Debug\SlcToSvgxConverter.pdb
+C:\Users\Jizhou Jiang\Desktop\EOS\SlcToSvgxConverter\obj\Debug\SlcToSvgxConverter.csproj.AssemblyReference.cache
+C:\Users\Jizhou Jiang\Desktop\EOS\SlcToSvgxConverter\obj\Debug\SlcToSvgxConverter.Form1.resources
+C:\Users\Jizhou Jiang\Desktop\EOS\SlcToSvgxConverter\obj\Debug\SlcToSvgxConverter.Properties.Resources.resources
+C:\Users\Jizhou Jiang\Desktop\EOS\SlcToSvgxConverter\obj\Debug\SlcToSvgxConverter.csproj.GenerateResource.cache
+C:\Users\Jizhou Jiang\Desktop\EOS\SlcToSvgxConverter\obj\Debug\SlcToSvgxConverter.csproj.CoreCompileInputs.cache
+C:\Users\Jizhou Jiang\Desktop\EOS\SlcToSvgxConverter\obj\Debug\SlcToSvgxConverter.exe
+C:\Users\Jizhou Jiang\Desktop\EOS\SlcToSvgxConverter\obj\Debug\SlcToSvgxConverter.pdb
